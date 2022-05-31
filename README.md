@@ -1,8 +1,8 @@
 # Video-chat-website
 
-Displays multiple people in the video chat app.
-Shows option to join stream on entering the website.
-Shows Mic on and off option.
-Shows Video on and off option.
-Shows the leave stream option.
-Has a cool background colour
+Displays multiple people in the video chat app,
+Shows option to join stream on entering the website,
+Shows Mic on and off option,
+Shows Video on and off option,
+Shows the leave stream option,
+Has a cool background colour.
